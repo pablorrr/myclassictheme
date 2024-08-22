@@ -1,0 +1,74 @@
+/* header text */
+header .site-branding-text {
+    margin-top: 100px;
+    text-align: center; }
+
+
+/* =Menu
+----------------------------------------------- */
+body > header > div > div > div > nav.arch-nav > h1 {
+    padding: 15px; }
+
+nav:not(.arch-nav) {
+    border-color: transparent;
+    opacity: 0.5;
+    color: #fed136; }
+
+
+
+.navbar :hover,
+.navbar :focus,
+.navbar :active {
+    color: #fec503; }
+
+.navbar .navbar-toggler {
+    border-color: #101010;
+    background-color: #171516; }
+.navbar .navbar-toggler:hover, .navbar .navbar-toggler:focus {
+    background-color: grey; }
+
+.navbar .navbar-nav > .active > a:hover,
+.navbar .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: orange; }
+
+.navbar ul li:hover > ul {
+    display: block;
+    /* show sub menus when hovering over a parent */ }
+
+.navbar-nav {
+    padding-left: 5em; }
+
+@media (min-width: 768px) {
+    .navbar {
+        padding: 25px 0;
+        border: 0;
+        background-color: transparent;
+        -webkit-transition: padding .3s;
+        -moz-transition: padding .3s;
+        transition: padding .3s;
+        font-size: 1em; }
+
+
+    .navbar .navbar-nav > .active > a {
+        border-radius: 3px; }
+
+
+
+    .navbar .navbar-shrink {
+        padding: 10px 0;
+        background-color: #222; }
+
+    .navbar .navbar-shrink .navbar-brand {
+        font-size: 1.5em; } }
+
+
+
+
+
+.wp-caption-text{}
+.gallery-caption{}
+.bypostauthor{}
+.alignright {}
+.alignleft{}
+.aligncenter{}

@@ -1,0 +1,655 @@
+# Copyright (C) 2023 pablozzz
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: myclassictheme 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/myclassictheme\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-08-02T08:23:01+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: myclassictheme\n"
+
+#. Theme Name of the theme
+msgid "myclassictheme"
+msgstr ""
+
+#. Description of the theme
+msgid "desc of my theme"
+msgstr ""
+
+#. Author of the theme
+msgid "pablozzz"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://websitecreator.cba.pl/"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: category.php:24
+msgid "Sorry, there are no posts in this category"
+msgstr ""
+
+#. translators: %s: post title
+#: comments.php:30
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:50
+#: comments.php:69
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:52
+#: comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:54
+#: comments.php:73
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:93
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:95
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:97
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:99
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:105
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes:"
+msgstr ""
+
+#: footer.php:15
+msgid "Opening hours"
+msgstr ""
+
+#: footer.php:17
+msgid "Monday  "
+msgstr ""
+
+#: footer.php:19
+msgid "Tuesday  "
+msgstr ""
+
+#: footer.php:21
+msgid "Thursday  "
+msgstr ""
+
+#: footer.php:23
+msgid "Friday  "
+msgstr ""
+
+#: footer.php:25
+msgid "Saturday  "
+msgstr ""
+
+#: footer.php:27
+msgid "Sunday  "
+msgstr ""
+
+#: footer.php:33
+msgid "Social media"
+msgstr ""
+
+#: footer.php:38
+msgid "Sign in with Twitter"
+msgstr ""
+
+#: footer.php:46
+msgid "Sign in with Facebook"
+msgstr ""
+
+#: footer.php:52
+msgid "Sign in with Youtube"
+msgstr ""
+
+#: footer.php:70
+msgid "Popular tags and categories"
+msgstr ""
+
+#: footer.php:135
+msgid "Log in"
+msgstr ""
+
+#: footer.php:141
+msgid "Log out"
+msgstr ""
+
+#: footer.php:148
+msgid "Go to admin panel here"
+msgstr ""
+
+#: footer.php:155
+msgid "telephone number:   "
+msgstr ""
+
+#: header-woo.php:65
+msgid "Shop Page"
+msgstr ""
+
+#: header-woo.php:67
+msgid "Checkout Page"
+msgstr ""
+
+#: header-woo.php:69
+msgid "Cart Page"
+msgstr ""
+
+#: header-woo.php:71
+msgid "Account Page"
+msgstr ""
+
+#: header-woo.php:73
+msgid "Product Page"
+msgstr ""
+
+#: header-woo.php:75
+msgid "Product Category Page"
+msgstr ""
+
+#: header-woo.php:77
+msgid "Product Tag Page"
+msgstr ""
+
+#: header.php:63
+msgid ""
+"Theres no menu, \n"
+"                                <a href=\"%1$s\" target=\"%2$s\">go to admin panel and create and activate menu</a>."
+msgstr ""
+
+#: home.php:23
+#: index.php:24
+msgid "Books Archive"
+msgstr ""
+
+#: inc/admin/myclassictheme-welcome-screen.php:73
+msgid "Thanks for choosing My Classic Theme!"
+msgstr ""
+
+#: inc/admin/myclassictheme-welcome-screen.php:78
+msgid "Get started with My Classic Theme!"
+msgstr ""
+
+#: inc/admin/welcome.php:5
+#: inc/template-tags.php:117
+msgid "In this theme you can:"
+msgstr ""
+
+#: inc/admin/welcome.php:6
+#: inc/template-tags.php:118
+msgid "- print phone number"
+msgstr ""
+
+#: inc/admin/welcome.php:7
+#: inc/template-tags.php:119
+msgid "- print opening time"
+msgstr ""
+
+#: inc/admin/welcome.php:17
+msgid "Welcome to the %sMy Classic Theme%s  , enjoy it!!!"
+msgstr ""
+
+#: inc/admin/welcome.php:19
+msgid "The theme contains many ways to configure."
+msgstr ""
+
+#: inc/admin/welcome.php:22
+msgid "Configure menu location &nbsp<span class=\"dashicons dashicons-menu\"></span>"
+msgstr ""
+
+#: inc/admin/welcome.php:24
+msgid ""
+"Configure your menu. The theme supports scrolling from the menu to selected segments on the front page.\n"
+"         To do this, go to the Menu in the Administration Panel,\n"
+"          choose your own links and paste - (http: // yourdomainname / #services) and add to the Menu."
+msgstr ""
+
+#: inc/admin/welcome.php:29
+msgid "Configure menus"
+msgstr ""
+
+#: inc/admin/welcome.php:33
+msgid "Set up your permalinks &nbsp <span class=\"dashicons dashicons-admin-site\"></span>"
+msgstr ""
+
+#: inc/admin/welcome.php:36
+msgid "Create %sCustom Links%s to this theme. Customized links simplify the readability of links and are more friendly seo."
+msgstr ""
+
+#: inc/admin/welcome.php:40
+msgid " <a href=\"%1$s\" target=\"%2$s\" class=\"%3$s\">Open Permalink Settings</a>"
+msgstr ""
+
+#: inc/admin/welcome.php:46
+msgid "Sell products through Woocommerce plugin &nbsp <span class=\"dashicons dashicons-cart\"></span>"
+msgstr ""
+
+#: inc/admin/welcome.php:49
+msgid "To sell products, download and install the Woocommerce plugin. It is necessary to pre-configure the plugin; create products, choose a template for a store, cart etc."
+msgstr ""
+
+#: inc/admin/welcome.php:63
+msgid "Install recommended plugins"
+msgstr ""
+
+#: inc/admin/welcome.php:66
+msgid "Add to the subject plugins supporting take care of seo, security and \tinform users that you are using cookie in %smyclassictheme%s"
+msgstr ""
+
+#: inc/admin/welcome.php:73
+msgid "Install recommended plugins <span class=\"dashicons dashicons-admin-plugins\"></span>"
+msgstr ""
+
+#: inc/admin/welcome.php:75
+msgid "%sIncrease the functionality%s of your theme by applying extensions in the form of plugins. take care of seo, security on the network, cookie privacy policy and commercial selling- %sWoocommerce%s"
+msgstr ""
+
+#: inc/admin/welcome.php:80
+msgid "Install &amp; Activate Recommended Plugins"
+msgstr ""
+
+#: inc/admin/welcome.php:89
+msgid "Read documentation"
+msgstr ""
+
+#: inc/admin/welcome.php:92
+msgid "Other features"
+msgstr ""
+
+#: inc/admin/welcome.php:93
+msgid "- responsive ( Bootsrap 4 framework )"
+msgstr ""
+
+#: inc/admin/welcome.php:94
+msgid "- customizable ( Wp Customizer)"
+msgstr ""
+
+#: inc/admin/welcome.php:95
+msgid "- translatable"
+msgstr ""
+
+#: inc/admin/welcome.php:96
+msgid "- supported e-shoping ( Woocommerce )"
+msgstr ""
+
+#. translators: %1$s: WordPress version. %2$s PHP version.
+#: inc/back-compat.php:17
+msgid "Highly recommended Wordpress 6.0 version. You are running WordPress version %1$s. Please upgrade and try again."
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Header Banner"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Header and Menu Navbar Background Color"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Applied to the header on small screens."
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Other Customizations"
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "This is a section for the header banner Image."
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "This is a section for Background Color."
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Opening Hours"
+msgstr ""
+
+#: inc/customizer.php:121
+#: inc/customizer.php:306
+msgid "Set editable text for certain content."
+msgstr ""
+
+#: inc/customizer.php:126
+#: inc/customizer.php:140
+msgid "Monday"
+msgstr ""
+
+#: inc/customizer.php:132
+#: inc/customizer.php:157
+#: inc/customizer.php:182
+#: inc/customizer.php:207
+#: inc/customizer.php:233
+#: inc/customizer.php:258
+#: inc/customizer.php:284
+msgid "default text"
+msgstr ""
+
+#: inc/customizer.php:150
+#: inc/customizer.php:165
+msgid "Tuesday"
+msgstr ""
+
+#: inc/customizer.php:175
+#: inc/customizer.php:190
+msgid "Wednesday"
+msgstr ""
+
+#: inc/customizer.php:200
+#: inc/customizer.php:215
+msgid "Thursday"
+msgstr ""
+
+#: inc/customizer.php:226
+#: inc/customizer.php:241
+msgid "Friday"
+msgstr ""
+
+#: inc/customizer.php:251
+#: inc/customizer.php:266
+msgid "Saturday"
+msgstr ""
+
+#: inc/customizer.php:277
+#: inc/customizer.php:292
+msgid "Sunday"
+msgstr ""
+
+#: inc/customizer.php:305
+#: inc/customizer.php:311
+msgid "Telephone number"
+msgstr ""
+
+#: inc/customizer.php:317
+msgid "000 000 000"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Phone Number"
+msgstr ""
+
+#: inc/setup.php:45
+msgid "Primary Header Menu"
+msgstr ""
+
+#: inc/setup.php:46
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/template-tags.php:31
+msgid "<strong class=\"btn-lg fr-end-butt\">Answer </strong><i class=\"icon-share-alt\"></i>"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#: inc/template-tags.php:73
+msgid "Password:"
+msgstr ""
+
+#: inc/template-tags.php:75
+msgid "Submit"
+msgstr ""
+
+#: inc/template-tags.php:116
+msgid "Welcome in My Universal Theme,enjoy it!!!"
+msgstr ""
+
+#: inc/template-tags.php:120
+msgid "- edit pages with block theme support"
+msgstr ""
+
+#: inc/template-tags.php:121
+msgid "- create new themes!!"
+msgstr ""
+
+#: inc/template-tags.php:122
+msgid "- sell products(WC integrate)"
+msgstr ""
+
+#: inc/widgets.php:10
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets.php:12
+#: inc/widgets.php:21
+#: inc/widgets.php:30
+#: inc/widgets.php:39
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets.php:19
+msgid "Footer 1"
+msgstr ""
+
+#: inc/widgets.php:28
+msgid "Footer 2"
+msgstr ""
+
+#: inc/widgets.php:37
+msgid "Footer 3"
+msgstr ""
+
+#: inc/woocommerce.php:63
+msgid "Products display setup"
+msgstr ""
+
+#: inc/woocommerce.php:84
+msgid "Display products number per row"
+msgstr ""
+
+#: inc/woocommerce.php:85
+msgid "Type max number of products to display per row "
+msgstr ""
+
+#: inc/woocommerce.php:89
+msgid "Max number of products per row"
+msgstr ""
+
+#: inc/woocommerce.php:93
+msgid "Display products number per page"
+msgstr ""
+
+#: inc/woocommerce.php:94
+msgid "Type number of products to display per page "
+msgstr ""
+
+#: inc/woocommerce.php:98
+msgid "Number of products per page"
+msgstr ""
+
+#: inc/woocommerce.php:143
+msgid "Go to Cart page"
+msgstr ""
+
+#: inc/woocommerce.php:149
+msgid "Go to Shop page"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blank without Container"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Blank with Container"
+msgstr ""
+
+#. Template Name of the theme
+msgid "First Page"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Width"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Left Sidebar"
+msgstr ""
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: single.php:21
+msgid "Comments are disabled (for new posts )go to admin panel to change it(settings->discuss) <a href=\"%1$s\" target=\"%2$s\">enable comments please here</a>."
+msgstr ""
+
+#: tag.php:26
+msgid "Sorry, there are no posts in this tag"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-notitle.php:16
+#: template-parts/content-page.php:19
+#: template-parts/content.php:35
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:30
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content.php:30
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Remove item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Thumbnail image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+#: woocommerce/cart/cart.php:85
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31
+#: woocommerce/cart/cart.php:119
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+#: woocommerce/cart/cart.php:125
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33
+#: woocommerce/cart/cart.php:151
+msgid "Subtotal"
+msgstr ""
+
+#. translators: %s is the product name
+#: woocommerce/cart/cart.php:64
+msgid "Remove %s from cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:114
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:169
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:169
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:169
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:174
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:48
+msgid "Your order"
+msgstr ""
